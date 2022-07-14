@@ -42,3 +42,6 @@ All ceramic capacitors and resistors have the same value, by design, so there is
 # Get it up and running:
 
 Connect a 9V battery (be careful with the battery holder, sometimes it's a bit hard to fit and remove the battery from there), turn on the switch, and get a flashlight! That's it, your robot should start crawling and following your flashlight 🔦. If not, the calibration potentiometers might need a bit of adjusting in order to match your room's light intensity. Nevertheless, you can adjust them to match the exact behavior you like 😀
+
+# Shop link:
+https://robo.com.cy/collections/robo-originals/products/light-follower-robot
